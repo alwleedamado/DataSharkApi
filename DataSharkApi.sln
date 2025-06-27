@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataSharkApi", "DataSharkApi\DataSharkApi.csproj", "{624FDC03-C254-4196-995D-16F2C537BACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrbitDataShark.DataGen", "OrbitDataShark.DataGen\OrbitDataShark.DataGen.csproj", "{3367B558-F280-4135-B17D-4804D03D3987}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{624FDC03-C254-4196-995D-16F2C537BACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{624FDC03-C254-4196-995D-16F2C537BACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{624FDC03-C254-4196-995D-16F2C537BACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{624FDC03-C254-4196-995D-16F2C537BACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3367B558-F280-4135-B17D-4804D03D3987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3367B558-F280-4135-B17D-4804D03D3987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3367B558-F280-4135-B17D-4804D03D3987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3367B558-F280-4135-B17D-4804D03D3987}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

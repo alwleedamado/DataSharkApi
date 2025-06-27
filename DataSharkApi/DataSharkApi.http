@@ -1,0 +1,6 @@
+@DataSharkApi_HostAddress = http://localhost:5144
+
+GET {{DataSharkApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
